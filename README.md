@@ -1,4 +1,4 @@
-# MoviesSubscriptionProject
+# Movies Subscription Project
 
 MERN Stack
 
