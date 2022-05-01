@@ -45,7 +45,6 @@ const UsersManagement = () => {
       }})()
     }, [editUserErrors])
     
-  
     const cancel = () => {
       navigate('/mainpage')
   }
